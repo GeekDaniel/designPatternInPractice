@@ -1,2 +1,9 @@
 # designPatternInPractice
-designPatternInPractice
+## 项目目的
+本项目是可以理解为head first一书的读后感悟，每一个模式会针对场景进行一些实战，然后会有实战总结。
+通过 理解-》实战-》总结 这样的学习路径，掌握设计模式。
+## 项目结构
+- 理解
+- 实战（代码到场）
+- 总结
+
