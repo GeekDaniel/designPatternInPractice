@@ -1,4 +1,4 @@
-package com.surpass.c1.codes.from.v1;
+package com.surpass.c1.codes.v1;
 
 /**
  * Created with IntelliJ IDEA.
@@ -6,8 +6,7 @@ package com.surpass.c1.codes.from.v1;
  *
  * @author: daniel
  * @creed: focus on the domain !
- * @Time: 2019/3/28 10:41 PM
+ * @Time: 2019/3/28 10:42 PM
  */
-class YellowDuck extends Duck {
-
+class GreyDuck extends Duck {
 }

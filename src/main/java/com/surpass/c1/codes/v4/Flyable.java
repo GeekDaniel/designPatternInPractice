@@ -1,4 +1,4 @@
-package com.surpass.c1.codes.from.v2;
+package com.surpass.c1.codes.v4;
 
 /**
  * Created with IntelliJ IDEA.
@@ -6,7 +6,8 @@ package com.surpass.c1.codes.from.v2;
  *
  * @author: daniel
  * @creed: focus on the domain !
- * @Time: 2019/3/28 10:42 PM
+ * @Time: 2019/3/28 11:24 PM
  */
-class GreyDuck extends Duck {
+public interface Flyable {
+    void fly();
 }

@@ -1,4 +1,4 @@
-package com.surpass.c1.codes.from.v2;
+package com.surpass.c1.codes.v2;
 
 import java.math.BigDecimal;
 

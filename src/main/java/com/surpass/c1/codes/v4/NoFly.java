@@ -1,4 +1,4 @@
-package com.surpass.c1.codes.from.v4;
+package com.surpass.c1.codes.v4;
 
 /**
  * Created with IntelliJ IDEA.
